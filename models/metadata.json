@@ -13,8 +13,8 @@
     "hl_range",
     "vol_rel"
   ],
-  "train_start": "2002-06-20",
-  "train_end": "2017-11-27",
-  "test_start": "2017-11-28",
-  "test_end": "2021-10-08"
+  "train_start": "2018-03-05",
+  "train_end": "2021-04-23",
+  "test_start": "2021-04-26",
+  "test_end": "2022-02-03"
 }

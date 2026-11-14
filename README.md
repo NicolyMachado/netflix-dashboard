@@ -6,7 +6,7 @@ Modelo de regressão em série temporal que prevê o fechamento do **próximo pr
 e um dashboard em **Streamlit** para explorar histórico, previsões, métricas e insights.
 
 ## Dataset
-Netflix Stock Price (All Time) – Kaggle: https://www.kaggle.com/akpmpr/updated-netflix-stock-price-all-time
+Netflix Stock Price (All Time) – Kaggle: https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction
 
 Baixe o CSV e salve como `data/netflix.csv` (colunas: Date, Open, High, Low, Close, Adj Close, Volume).
 
