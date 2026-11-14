@@ -1,0 +1,20 @@
+{
+  "features": [
+    "ret_lag_0",
+    "ret_lag_1",
+    "ret_lag_2",
+    "ret_lag_3",
+    "ret_lag_4",
+    "ma_5_ratio",
+    "ma_10_ratio",
+    "ma_20_ratio",
+    "vol_10",
+    "mom_10",
+    "hl_range",
+    "vol_rel"
+  ],
+  "train_start": "2002-06-20",
+  "train_end": "2017-11-27",
+  "test_start": "2017-11-28",
+  "test_end": "2021-10-08"
+}
