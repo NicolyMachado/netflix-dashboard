@@ -1,12 +1,12 @@
 # Netflix (NFLX) – Dashboard de previsão de preço
 
-Trabalho Bimestral – Sistemas de Apoio à Decisão · UFMS Câmpus de Três Lagoas (BSI).
+Trabalho Bimestral – Sistemas de Apoio à Decisão · UFMS Câmpus de Três Lagoas.
 
 Modelo de regressão em série temporal que prevê o fechamento do **próximo pregão** das ações da Netflix
 e um dashboard em **Streamlit** para explorar histórico, previsões, métricas e insights.
 
 ## Dataset
-Netflix Stock Price (All Time) – Kaggle: https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction
+Netflix Stock Price (All Time) – Kaggle: https://www.kaggle.com/akpmpr/updated-netflix-stock-price-all-time
 
 Baixe o CSV e salve como `data/netflix.csv` (colunas: Date, Open, High, Low, Close, Adj Close, Volume).
 
