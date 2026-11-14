@@ -1,7 +1,9 @@
 """
+
 evaluate.py
 Gera a tabela de métricas no período de TESTE (dados que o modelo nunca viu).
 Uso:  python evaluate.py      (rode train.py antes)
+
 """
 import joblib
 import pandas as pd

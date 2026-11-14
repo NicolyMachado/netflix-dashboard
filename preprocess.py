@@ -1,10 +1,12 @@
 """
+
 preprocess.py
 Leitura, limpeza e engenharia de atributos do dataset de ações da Netflix (NFLX).
 
 Problema: prever o fechamento do PRÓXIMO pregão a partir de informações até hoje.
 Estratégia: o alvo do modelo é o RETORNO do dia seguinte (variação percentual),
 e o preço previsto é calculado depois: preço_previsto = fechamento * (1 + retorno_previsto).
+
 """
 import warnings
 from pathlib import Path
